@@ -1,0 +1,6 @@
+backup_root: "/backups"
+min_free_space_gb: 1
+max_backups: 5
+max_logs: 5 
+source_dir: "/var/www/html"
+log_level: "INFO"
